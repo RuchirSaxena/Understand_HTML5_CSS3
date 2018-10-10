@@ -1,0 +1,6 @@
+<!DOCTYPE html> 
+==================================================================================================
+Is used to describe which version of HTML we are using , above tag specify that we are using HTML5 version
+
+
+
