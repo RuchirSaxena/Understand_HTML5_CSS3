@@ -2,5 +2,19 @@
 ==================================================================================================
 Is used to describe which version of HTML we are using , above tag specify that we are using HTML5 version
 
+The CSS Box Model
+==================================================================================================
+The Box Model consists of below things:
+1.Content => text , images etc.
+2.Padding => transrent area around the content, inside the Box.
+3.Boder => goes around the Padding and the content.
+4.Margin => space between 2 boxes
+
+see image =>images ->Box Model.PNG
+
+With `box-sizing : boder-box` we can define height and width for an entire box , rather than just the content
+
+
+
 
 
