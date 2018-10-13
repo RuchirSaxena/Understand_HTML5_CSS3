@@ -14,6 +14,12 @@ see image =>images ->Box Model.PNG
 
 With `box-sizing : boder-box` we can define height and width for an entire box , rather than just the content
 
+Typhography in CSS 
+==============================================================================================
+Typhography are the bascis rules and principles we sh
+
+
+
 
 
 
